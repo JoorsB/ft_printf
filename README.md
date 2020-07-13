@@ -34,9 +34,3 @@ Flags accepted:
 - Width
 - Left-justify
 - Fill width with zero's
-#### 5. Emoji's
-###### Use %s and emoji identifier
-#### Emoji identifiers
-#### \_JOY_ :joy:
-#### \_EGGPLANT_ :eggplant:
-#### \_AVOCADO_ :avocado:
